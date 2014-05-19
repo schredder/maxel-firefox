@@ -1,0 +1,9 @@
+{
+  "name": "maxel-firefox",
+  "title": "Firefox to Maxel",
+  "id": "jid1-dH1AIS4f6Embaw",
+  "description": "Download links using Maxel from within Firefox",
+  "author": "Eric Schroeder",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
